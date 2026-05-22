@@ -35,7 +35,7 @@ const TRANSITION_DURATION = 1000;
 
 // kleiner = gröber / schneller
 // größer = feiner / langsamer
-const TRANSITION_SCALE = 0.35;
+const TRANSITION_SCALE = 0.5;
 
 const canvas = document.getElementById("slider");
 const ctx = canvas.getContext("2d");
