@@ -30,7 +30,7 @@ const mediaPaths = [
   "images/horten-02.jpg"
 ];
 
-const IMAGE_HOLD_TIME = 2000;
+const IMAGE_HOLD_TIME = 3000;
 const TRANSITION_DURATION = 1000;
 
 // kleiner = gröber / schneller
